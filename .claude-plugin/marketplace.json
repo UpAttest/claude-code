@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "upattest",
+  "description": "UpAttest plugins for Claude Code: human sign-off for agent work.",
+  "owner": {
+    "name": "UpAttest",
+    "url": "https://upattest.com"
+  },
+  "plugins": [
+    {
+      "name": "upattest",
+      "source": "./plugins/upattest",
+      "description": "Ask a verified professional to review your agent's work and verify the signed attestation.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "upattest",
+  "displayName": "UpAttest",
+  "version": "0.2.0",
+  "description": "Human sign-off for agent work: ask a verified professional to review a change, document or calculation, answer their questions, and verify the signed attestation.",
+  "author": {
+    "name": "UpAttest",
+    "url": "https://upattest.com"
+  },
+  "homepage": "https://upattest.com/connect",
+  "license": "Apache-2.0",
+  "keywords": ["human-review", "sign-off", "attestation", "code-review", "security-review", "mcp", "upattest"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://upattest.com/integrations/mcp",
+  "supportUrl": "https://upattest.com/connect",
+  "privacyPolicyUrl": "https://upattest.com/privacy",
+  "termsOfServiceUrl": "https://upattest.com/terms"
+}

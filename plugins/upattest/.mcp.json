@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "upattest": {
+      "type": "http",
+      "url": "${UPATTEST_MCP_URL:-https://api.upattest.com/mcp}"
+    }
+  }
+}
